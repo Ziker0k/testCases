@@ -1,0 +1,2 @@
+SELECT surname FROM nameOfSchema.nameOfTable ORDER BY experience DESC LIMIT 1,1;
+
